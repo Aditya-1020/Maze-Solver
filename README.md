@@ -1,5 +1,5 @@
 # Maze-Solver
-Building a maze generator and solver using SDL in C.
+Building a maze generator and solver using in C
 Objective: visually render mazes and their solutions but also analyze using metrics.
 
 ## Future Extensions

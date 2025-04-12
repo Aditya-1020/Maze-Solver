@@ -18,7 +18,7 @@ Algorithms that are used in maze generation
 - Union-Find data structure and path compression
 - Randomized algorithms and entropy
 - Probabilistic analysis of maze connectivity
-- Diameter and radius of graphs
+- Diameter and radius of graphsw
 - Average-case vs worst-case path lengths
 - Graph entropy and complexity
 - Topological properties of random mazes
